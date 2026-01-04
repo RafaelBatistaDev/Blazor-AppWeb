@@ -16,14 +16,21 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: '10.0.x' # Atualizado para .NET 10
 
       - name: Publish Project
+        # O .NET 10 é mais rápido, mas ainda exige que o código esteja sem erros de tag
         run: dotnet publish $(find . -name "*.csproj" | head -n 1) -c Release -o release
 
       - name: Change base-tag in index.html
-        # Isso é vital para que o CSS e JS carreguem no GitHub Pages
-        run: sed -i 's/<base href="\/" \/>/<base href="\/Blazor-AppWeb\/" \/>/g' release/wwwroot/index.html
+        run: |
+          INDEX_FILE=$(find release/wwwroot -name "index.html" | head -n 1)
+          if [ -f "$INDEX_FILE" ]; then
+            echo "Ajustando base href para GitHub Pages em: $INDEX_FILE"
+            sed -i 's/<base href="\/" \/>/<base href="\/Blazor-AppWeb\/" \/>/g' "$INDEX_FILE"
+          else
+            echo "Aviso: index.html não localizado. Verifique se o projeto é Blazor Standalone."
+          fi
 
       - name: Upload to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4

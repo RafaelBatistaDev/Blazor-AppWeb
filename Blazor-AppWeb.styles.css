@@ -160,3 +160,133 @@ main[b-1vgm4gt1jd] {
         overflow-y: auto;
     }
 }
+/* /Pages/Freecodecamp.razor.rz.scp.css */
+    /* Removemos o limite de 800px para usar 100% da largura disponível */
+    .certificado-container[b-02dseohykg] {
+        width: 100%;
+        margin: 0;
+        padding: 10px; /* Pequeno respiro nas bordas */
+    }
+
+    .certificado-item[b-02dseohykg] {
+        width: 100%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .certificado-img[b-02dseohykg] {
+        /* Garante que a imagem ocupe toda a largura do container */
+        width: 100%; 
+        /* Mantém a proporção original da imagem para não achatar */
+        height: auto; 
+        border-radius: 0px; /* Removi o arredondamento para parecer mais preenchido nas bordas */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        display: block;
+    }
+
+    /* Ajuste para telas muito grandes (opcional) */
+    @media (min-width: 1200px) {
+        .certificado-img[b-02dseohykg] {
+            max-height: 90vh; /* Evita que a imagem fique maior que a altura da tela em monitores gigantes */
+            object-fit: contain; /* Garante que o certificado apareça inteiro sem cortes */
+            background-color: #f8f9fa;
+        }
+    }
+/* /Pages/IFRS.razor.rz.scp.css */
+    /* Removemos o limite de 800px para usar 100% da largura disponível */
+    .certificado-container[b-ldknt84hrs] {
+        width: 100%;
+        margin: 0;
+        padding: 10px; /* Pequeno respiro nas bordas */
+    }
+
+    .certificado-item[b-ldknt84hrs] {
+        width: 100%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .certificado-img[b-ldknt84hrs] {
+        /* Garante que a imagem ocupe toda a largura do container */
+        width: 100%; 
+        /* Mantém a proporção original da imagem para não achatar */
+        height: auto; 
+        border-radius: 0px; /* Removi o arredondamento para parecer mais preenchido nas bordas */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        display: block;
+    }
+
+    /* Ajuste para telas muito grandes (opcional) */
+    @media (min-width: 1200px) {
+        .certificado-img[b-ldknt84hrs] {
+            max-height: 90vh; /* Evita que a imagem fique maior que a altura da tela em monitores gigantes */
+            object-fit: contain; /* Garante que o certificado apareça inteiro sem cortes */
+            background-color: #f8f9fa;
+        }
+    }
+/* /Pages/IFRSMEC.razor.rz.scp.css */
+
+    /* Removemos o limite de 800px para usar 100% da largura disponível */
+    .certificado-container[b-yir5h9jgyo] {
+        width: 100%;
+        margin: 0;
+        padding: 10px; /* Pequeno respiro nas bordas */
+    }
+
+    .certificado-item[b-yir5h9jgyo] {
+        width: 100%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .certificado-img[b-yir5h9jgyo] {
+        /* Garante que a imagem ocupe toda a largura do container */
+        width: 100%; 
+        /* Mantém a proporção original da imagem para não achatar */
+        height: auto; 
+        border-radius: 0px; /* Removi o arredondamento para parecer mais preenchido nas bordas */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        display: block;
+    }
+
+    /* Ajuste para telas muito grandes (opcional) */
+    @media (min-width: 1200px) {
+        .certificado-img[b-yir5h9jgyo] {
+            max-height: 90vh; /* Evita que a imagem fique maior que a altura da tela em monitores gigantes */
+            object-fit: contain; /* Garante que o certificado apareça inteiro sem cortes */
+            background-color: #f8f9fa;
+        }
+    }
+/* /Pages/Learn.razor.rz.scp.css */
+
+    /* Removemos o limite de 800px para usar 100% da largura disponível */
+    .certificado-container[b-xdk3m4kiv3] {
+        width: 100%;
+        margin: 0;
+        padding: 10px; /* Pequeno respiro nas bordas */
+    }
+
+    .certificado-item[b-xdk3m4kiv3] {
+        width: 100%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .certificado-img[b-xdk3m4kiv3] {
+        /* Garante que a imagem ocupe toda a largura do container */
+        width: 100%; 
+        /* Mantém a proporção original da imagem para não achatar */
+        height: auto; 
+        border-radius: 0px; /* Removi o arredondamento para parecer mais preenchido nas bordas */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        display: block;
+    }
+
+    /* Ajuste para telas muito grandes (opcional) */
+    @media (min-width: 1200px) {
+        .certificado-img[b-xdk3m4kiv3] {
+            max-height: 90vh; /* Evita que a imagem fique maior que a altura da tela em monitores gigantes */
+            object-fit: contain; /* Garante que o certificado apareça inteiro sem cortes */
+            background-color: #f8f9fa;
+        }
+    }

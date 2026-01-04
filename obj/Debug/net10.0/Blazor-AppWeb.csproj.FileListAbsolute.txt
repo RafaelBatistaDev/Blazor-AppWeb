@@ -1,0 +1,10 @@
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/EmbeddedAttribute.cs
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/ValidatableTypeAttribute.cs
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.csproj.AssemblyReference.cache
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.GeneratedMSBuildEditorConfig.editorconfig
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.AssemblyInfoInputs.cache
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.AssemblyInfo.cs
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.csproj.CoreCompileInputs.cache
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.MvcApplicationPartsAssemblyInfo.cache
+/home/recifecrypto/Certificados/Blazor-AppWeb/obj/Debug/net10.0/Blazor-AppWeb.sourcelink.json

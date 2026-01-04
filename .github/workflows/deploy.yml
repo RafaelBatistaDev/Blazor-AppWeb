@@ -35,3 +35,4 @@ jobs:
         with:
           folder: release/wwwroot
           branch: gh-pages
+          clean: true  # Isso remove arquivos na gh-pages que não existem mais na main

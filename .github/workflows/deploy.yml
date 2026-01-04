@@ -19,33 +19,19 @@ jobs:
           dotnet-version: '10.0.x'
 
       - name: Publish Project
-        run: dotnet publish $(find . -name "*.csproj" | head -n 1) -c Release -o release
+        run: dotnet publish -c Release -o release
 
-      - name: Fix and Deploy
+      - name: Fix for GitHub Pages
         run: |
-          # Procura onde o index.html foi parar
-          INDEX_PATH=$(find release -name "index.html" | head -n 1)
-          
-          if [ -z "$INDEX_PATH" ]; then
-            echo "ERRO: index.html não encontrado! Verifique se o projeto é Blazor WebAssembly."
-            exit 1
-          fi
-          
-          # Pega a pasta onde o index.html está
-          PUBLISH_DIR=$(dirname "$INDEX_PATH")
-          
-          # Ajusta o base href
-          sed -i 's/<base href="\/" \/>/<base href="\/Blazor-AppWeb\/" \/>/g' "$INDEX_PATH"
-          
-          # Cria arquivos necessários para o GitHub
-          touch "$PUBLISH_DIR/.nojekyll"
-          cp "$INDEX_PATH" "$PUBLISH_DIR/404.html"
-          
-          # Salva o caminho da pasta para o próximo passo
-          echo "DEPLOY_PATH=$PUBLISH_DIR" >> $GITHUB_ENV
+          # Adiciona o arquivo .nojekyll
+          touch release/wwwroot/.nojekyll
+          # Ajusta o base href no index.html para o nome do seu repo
+          sed -i 's/<base href="\/" \/>/<base href="\/Blazor-AppWeb\/" \/>/g' release/wwwroot/index.html
+          # Cria o 404.html baseado no index.html
+          cp release/wwwroot/index.html release/wwwroot/404.html
 
       - name: Upload to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: ${{ env.DEPLOY_PATH }}
+          folder: release/wwwroot
           branch: gh-pages

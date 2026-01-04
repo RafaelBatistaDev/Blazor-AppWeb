@@ -1,0 +1,170 @@
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/appsettings.Development.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/appsettings.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados.staticwebassets.runtime.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados.staticwebassets.endpoints.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados.deps.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados.runtimeconfig.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados.dll
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/bin/Debug/net10.0/Certificados.pdb
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/EmbeddedAttribute.cs
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/ValidatableTypeAttribute.cs
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.GeneratedMSBuildEditorConfig.editorconfig
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.AssemblyInfoInputs.cache
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.AssemblyInfo.cs
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.csproj.CoreCompileInputs.cache
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.MvcApplicationPartsAssemblyInfo.cache
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/scopedcss/bundle/Certificados.styles.css
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/scopedcss/projectbundle/Certificados.bundle.scp.css
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/k1nx131qrn-{0}-w7mf952350-w7mf952350.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/pwvh2y42g3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/el0kcmdg29-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/u0gpp5uopy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/nz26x6c9h0-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/grtyu060vy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/majih8ih6f-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/vzee9tsbe0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/hywod0e8vl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/4xz3e66pjl-{0}-ub07r2b239-ub07r2b239.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/svp9trbmjw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/spwwgmz9sv-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/xe5f7wnhr5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/5u3leqxiom-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/mzw6xy8c6l-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/lpvx55qg4n-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/bjx6s618gq-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/taz35nf69d-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/7m295e5opg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/ti4h4oo4m2-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/t8xjx4bqjk-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/o2ycy9ijxb-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/g4legd2ekh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/0xn5zt8d1z-{0}-06098lyss8-06098lyss8.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/1kbylc9jz5-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/ktehc2ukle-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/2rq729y848-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/mcdj91wg2l-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/znessp67ta-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/dnc18vqg3p-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/0mab50bx2v-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/xh107ft896-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/se43qhgo20-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/m2e2dmxlc2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/hfqb758atq-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/eav5ltmebq-{0}-493y06b0oq-493y06b0oq.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/193eywn60u-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/qisfp9lqw9-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/dpukeymk47-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/hoyqat3obq-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/i3nkkhlrpv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/zaqd8u1rj3-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/txcvim5grg-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/xxmqe906sx-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/d08qer4n4w-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/hoo9rxn71t-{0}-w97mql0d9w-w97mql0d9w.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/b5plzkbe60-{0}-wmp8iwak4q-wmp8iwak4q.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/u3ywg3zfp1-{0}-2lgipwaf5j-2lgipwaf5j.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/4uhjtxkofs-{0}-vdcasg0z2n-vdcasg0z2n.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/compressed/26x7is0kei-{0}-vdcasg0z2n-vdcasg0z2n.gz
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/staticwebassets.build.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/staticwebassets.development.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/swae.build.ex.cache
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.dll
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/refint/Certificados.dll
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.pdb
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/Certificados.genruntimeconfig.cache
+/home/recifecrypto/Site Blazor WebApp/Certificados 1/Certificados/obj/Debug/net10.0/ref/Certificados.dll
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/appsettings.Development.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/appsettings.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados.staticwebassets.runtime.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados.staticwebassets.endpoints.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados.deps.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados.runtimeconfig.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados.dll
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/bin/Debug/net10.0/Certificados.pdb
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/EmbeddedAttribute.cs
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/ValidatableTypeAttribute.cs
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.GeneratedMSBuildEditorConfig.editorconfig
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.AssemblyInfoInputs.cache
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.AssemblyInfo.cs
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.csproj.CoreCompileInputs.cache
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.MvcApplicationPartsAssemblyInfo.cache
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/scopedcss/bundle/Certificados.styles.css
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/scopedcss/projectbundle/Certificados.bundle.scp.css
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/k1nx131qrn-{0}-8k7wf08ztl-8k7wf08ztl.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/pwvh2y42g3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/el0kcmdg29-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/u0gpp5uopy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/nz26x6c9h0-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/grtyu060vy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/majih8ih6f-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/vzee9tsbe0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/hywod0e8vl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/4xz3e66pjl-{0}-ub07r2b239-ub07r2b239.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/svp9trbmjw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/spwwgmz9sv-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/xe5f7wnhr5-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/5u3leqxiom-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/mzw6xy8c6l-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/lpvx55qg4n-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/bjx6s618gq-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/taz35nf69d-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/7m295e5opg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/ti4h4oo4m2-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/t8xjx4bqjk-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/o2ycy9ijxb-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/g4legd2ekh-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/0xn5zt8d1z-{0}-06098lyss8-06098lyss8.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/1kbylc9jz5-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/ktehc2ukle-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/2rq729y848-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/mcdj91wg2l-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/znessp67ta-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/dnc18vqg3p-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/0mab50bx2v-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/xh107ft896-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/se43qhgo20-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/m2e2dmxlc2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/hfqb758atq-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/eav5ltmebq-{0}-493y06b0oq-493y06b0oq.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/193eywn60u-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/qisfp9lqw9-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/dpukeymk47-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/hoyqat3obq-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/i3nkkhlrpv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/zaqd8u1rj3-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/txcvim5grg-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/xxmqe906sx-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/d08qer4n4w-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/hoo9rxn71t-{0}-w97mql0d9w-w97mql0d9w.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/b5plzkbe60-{0}-wmp8iwak4q-wmp8iwak4q.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/u3ywg3zfp1-{0}-2lgipwaf5j-2lgipwaf5j.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/4uhjtxkofs-{0}-vdcasg0z2n-vdcasg0z2n.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/compressed/26x7is0kei-{0}-vdcasg0z2n-vdcasg0z2n.gz
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/staticwebassets.build.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/staticwebassets.development.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/swae.build.ex.cache
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.dll
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/refint/Certificados.dll
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.pdb
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/Certificados.genruntimeconfig.cache
+/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/Debug/net10.0/ref/Certificados.dll

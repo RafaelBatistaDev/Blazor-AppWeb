@@ -1,0 +1,4 @@
+/home/recifecrypto/Certificados/Blazor-AppWeb/bin/Release/net10.0/publish/wwwroot/index.html
+/home/recifecrypto/Certificados/Blazor-AppWeb/bin/Release/net10.0/publish/Blazor-AppWeb.runtimeconfig.json
+/home/recifecrypto/Certificados/Blazor-AppWeb/bin/Release/net10.0/publish/dotnet.js
+/home/recifecrypto/Certificados/Blazor-AppWeb/bin/Release/net10.0/publish/web.config

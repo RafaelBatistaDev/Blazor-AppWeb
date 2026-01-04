@@ -16,24 +16,29 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '10.0.x' # Atualizado para .NET 10
+          dotnet-version: '10.0.x'
 
       - name: Publish Project
-        # O .NET 10 é mais rápido, mas ainda exige que o código esteja sem erros de tag
         run: dotnet publish $(find . -name "*.csproj" | head -n 1) -c Release -o release
+
+      - name: Fix Structure for GitHub Pages
+        run: |
+          # Se o .NET 10 criou uma subpasta wwwroot dentro de release, movemos tudo para a raiz de release
+          if [ -d "release/wwwroot" ]; then
+            cp -r release/wwwroot/* release/
+          fi
+          # Cria o arquivo .nojekyll dentro da pasta que será enviada
+          touch release/.nojekyll
 
       - name: Change base-tag in index.html
         run: |
-          INDEX_FILE=$(find release/wwwroot -name "index.html" | head -n 1)
+          INDEX_FILE=$(find release -name "index.html" | head -n 1)
           if [ -f "$INDEX_FILE" ]; then
-            echo "Ajustando base href para GitHub Pages em: $INDEX_FILE"
             sed -i 's/<base href="\/" \/>/<base href="\/Blazor-AppWeb\/" \/>/g' "$INDEX_FILE"
-          else
-            echo "Aviso: index.html não localizado. Verifique se o projeto é Blazor Standalone."
           fi
 
       - name: Upload to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: release/wwwroot
+          folder: release  # Enviamos a pasta release inteira
           branch: gh-pages

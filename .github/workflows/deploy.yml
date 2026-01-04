@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -16,10 +19,10 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Publish Project
-        # O comando abaixo encontra o arquivo .csproj sozinho
         run: dotnet publish $(find . -name "*.csproj" | head -n 1) -c Release -o release
 
       - name: Change base-tag in index.html
+        # Isso é vital para que o CSS e JS carreguem no GitHub Pages
         run: sed -i 's/<base href="\/" \/>/<base href="\/Blazor-AppWeb\/" \/>/g' release/wwwroot/index.html
 
       - name: Upload to GitHub Pages

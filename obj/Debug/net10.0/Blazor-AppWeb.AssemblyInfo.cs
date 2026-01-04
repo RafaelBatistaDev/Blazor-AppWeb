@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazor-AppWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d30daa42b0436d715cf9384854c7736a9e39614")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddaa491f5679048b1296eff89b59cfd5f05763c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazor-AppWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor-AppWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

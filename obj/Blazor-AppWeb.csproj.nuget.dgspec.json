@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/recifecrypto/Certificados/Certificados/Blazor-AppWeb.csproj": {}
+    "/home/recifecrypto/Certificados/Blazor-AppWeb/Blazor-AppWeb.csproj": {}
   },
   "projects": {
-    "/home/recifecrypto/Certificados/Certificados/Blazor-AppWeb.csproj": {
+    "/home/recifecrypto/Certificados/Blazor-AppWeb/Blazor-AppWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/recifecrypto/Certificados/Certificados/Blazor-AppWeb.csproj",
+        "projectUniqueName": "/home/recifecrypto/Certificados/Blazor-AppWeb/Blazor-AppWeb.csproj",
         "projectName": "Blazor-AppWeb",
-        "projectPath": "/home/recifecrypto/Certificados/Certificados/Blazor-AppWeb.csproj",
+        "projectPath": "/home/recifecrypto/Certificados/Blazor-AppWeb/Blazor-AppWeb.csproj",
         "packagesPath": "/home/recifecrypto/.nuget/packages/",
-        "outputPath": "/home/recifecrypto/Certificados/Certificados/obj/",
+        "outputPath": "/home/recifecrypto/Certificados/Blazor-AppWeb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/recifecrypto/.nuget/NuGet/NuGet.Config"

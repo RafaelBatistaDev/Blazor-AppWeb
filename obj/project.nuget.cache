@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ajM2u7ar79k=",
+  "dgSpecHash": "ukHqIWN0dy4=",
   "success": true,
-  "projectFilePath": "/home/recifecrypto/Certificados/Certificados/Blazor-AppWeb.csproj",
+  "projectFilePath": "/home/recifecrypto/Certificados/Blazor-AppWeb/Blazor-AppWeb.csproj",
   "expectedPackageFiles": [
     "/home/recifecrypto/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.1/microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512",
     "/home/recifecrypto/.nuget/packages/microsoft.aspnetcore.authorization/10.0.1/microsoft.aspnetcore.authorization.10.0.1.nupkg.sha512",

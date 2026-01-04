@@ -36,8 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/Microsoft.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWljcm9zb2Z0LnJhem9y
+[/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/Learn.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/NotFound.razor]

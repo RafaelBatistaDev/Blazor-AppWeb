@@ -32,8 +32,20 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/Freecodecamp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRnJlZWNvZGVjYW1wLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/IFRS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSUZSUy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/IFRSMEC.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSUZSU01FQy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/recifecrypto/Certificados/Blazor-AppWeb/Pages/Learn.razor]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fpKUKNkIfs=",
+  "dgSpecHash": "W1YRI1ywuok=",
   "success": true,
-  "projectFilePath": "/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/Certificados.csproj",
+  "projectFilePath": "/home/recifecrypto/Certificados/Certificados/Certificados.csproj",
   "expectedPackageFiles": [
     "/home/recifecrypto/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.1/microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512",
     "/home/recifecrypto/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"

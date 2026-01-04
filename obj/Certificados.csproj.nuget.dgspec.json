@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/Certificados.csproj": {}
+    "/home/recifecrypto/Certificados/Certificados/Certificados.csproj": {}
   },
   "projects": {
-    "/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/Certificados.csproj": {
+    "/home/recifecrypto/Certificados/Certificados/Certificados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/Certificados.csproj",
+        "projectUniqueName": "/home/recifecrypto/Certificados/Certificados/Certificados.csproj",
         "projectName": "Certificados",
-        "projectPath": "/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/Certificados.csproj",
+        "projectPath": "/home/recifecrypto/Certificados/Certificados/Certificados.csproj",
         "packagesPath": "/home/recifecrypto/.nuget/packages/",
-        "outputPath": "/home/recifecrypto/OneDrive/Learn Microsoft/Certificados/Certificados/obj/",
+        "outputPath": "/home/recifecrypto/Certificados/Certificados/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/recifecrypto/.nuget/NuGet/NuGet.Config"
